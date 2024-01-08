@@ -9,7 +9,7 @@ Purdue FIRST Programs (PFP) is a Purdue student organization supporting the FIRS
 
 **Structure:** Exec Board, Events, Media, FRC Mentoring, Jr Mentoring
 
-**[Meetings](meetings.md):** 6-8pm in WALC 3127 *(spring 2024)*
+**Meetings:** 6-8pm in WALC 3127 *[(spring 2024)](2024spring.md)*
 
 **Annual Public Events**
 - Boiler Bot Battle ("B3")
@@ -21,9 +21,10 @@ Purdue FIRST Programs (PFP) is a Purdue student organization supporting the FIRS
 - FIRST Event Volunteering
 
 **Commonly Accessed Resources**
-- [Youth Protection Training](YPT.md)
-- [Boilerlink Page](https://boilerlink.purdue.edu/organization/purduefirstprograms/)
-- [PFP acronyms + dictionary](dictionary.md)
+- [🚸 Youth Protection Training](https://www.purdue.edu/ethics/youth_protection/Staff/Training.php)
+- [🔗 Boilerlink Page](https://boilerlink.purdue.edu/organization/purduefirstprograms/)
+- [📖 PFP acronyms + dictionary](dictionary.md)
+- [🚗 RM01S](https://www.purdue.edu/business/risk_mgmt/Vehicle_Use_Info/index.html)
 
 **ToDos**
 - ON/OFF-boarding procedures
