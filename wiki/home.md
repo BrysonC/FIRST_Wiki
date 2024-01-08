@@ -26,6 +26,8 @@ Purdue FIRST Programs (PFP) is a Purdue student organization supporting the FIRS
 - [PFP acronyms + dictionary](dictionary.md)
 
 **ToDos**
-- [ ] ON/OFF-boarding procedures
-- [ ] reporting system
-- [ ] PFP History
+- ON/OFF-boarding procedures
+- reporting system
+- PFP History
+- FIRST on Resumes
+- BESSE?
