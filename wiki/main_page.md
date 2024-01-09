@@ -7,18 +7,18 @@ Purdue FIRST Programs (PFP) is a Purdue student organization supporting the FIRS
 
 **Purpose:** ~~CHALLENGE~~ INSPIRE future leaders, MENTOR current students, ENGAGE the local community
 
-**Structure:** Exec Board, Events, Media, FRC Mentoring, Jr Mentoring
+**Branches:** [Exec Board](exec.md), [Events](events.md), [Media](media.md), [FRC Mentoring](mentor_frc.md), [Jr Mentoring](mentor_jr.md)
 
 **Meetings:** 6-8pm in WALC 3127 *[(spring 2024)](2024spring.md)*
 
 **Annual Public Events**
-- Boiler Bot Battle ("B3")
-- Purdue FIRST Fourms
-- FTC Kickoff
-- FRC Kickoff
-- FRC Design Review
-- FRC Open House
-- FIRST Event Volunteering
+- [Boiler Bot Battle ("B3")](B3.md)
+- [Purdue FIRST Fourms](fourms.md)
+- [FTC Kickoff](kickoff_FTC.md)
+- [FRC Kickoff](kickoff_FRC.md)
+- [FRC Design Review](design_review.md)
+- [FRC Open House](open_house.md)
+- [FIRST Event Volunteering](volunteering.md)
 
 **Commonly Accessed Resources**
 - [🚸 Youth Protection Training](https://www.purdue.edu/ethics/youth_protection/Staff/Training.php)
