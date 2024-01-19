@@ -9,7 +9,7 @@ Purdue FIRST Programs (PFP) is a Purdue student organization supporting the FIRS
 
 **Branches:** [Exec Board](exec.md), [Events](events.md), [Media](media.md), [FRC Mentoring](mentor_frc.md), [Jr Mentoring](mentor_jr.md)
 
-**Meetings:** 6-8pm in WALC 3127 *[(spring 2024)](2024spring.md)*
+**Meetings:** 6-7pm in PHYS 338 *[(spring 2024)](2024spring.md)*
 
 **Annual Public Events**
 - [Boiler Bot Battle ("B3")](B3.md)
@@ -27,8 +27,8 @@ Purdue FIRST Programs (PFP) is a Purdue student organization supporting the FIRS
 - [🚗 RM01S](https://www.purdue.edu/business/risk_mgmt/Vehicle_Use_Info/index.html)
 
 **ToDos**
+- [PFP History](history.md)
 - ON/OFF-boarding procedures
 - reporting system
-- PFP History
 - FIRST on Resumes
 - BESSE?
