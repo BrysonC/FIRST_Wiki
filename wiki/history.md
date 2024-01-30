@@ -12,13 +12,13 @@ After the new students forged a partnership with Steve Florence, a local high sc
 | F99-S00 | Creation as PSEF activity<br>Formation of FRC 461 |
 | F00-S01 |  |
 | F01-S02 | Start of ME297 Class (Julia Badger) |
-| F02-S03 | <ul><li>First PFP FLL Tournament</li><li>Obtained Provost support ($25k/yr match, Patrick Wasonga)</li><li>Separate FRC & FLL Director position</li></ul> |
+| F02-S03 | First PFP FLL Tournament<br>Obtained Provost support ($25k/yr match, Patrick Wasonga)<br>Separate FRC & FLL Director positions |
 | F03-S04 | Planning for FRC regional |
-| F04-S05 | <ul><li>Separation from PSEF</li><li>Formation of FRC 1646</li><li>First Boilermaker Regional</li></ul>  |
-| F05-S06 | <ul><li>Formation of FRC 1747</li><li>Planning for Vex Tournament</li></ul> |
-| F06-S07 | <ul><li>Vex Tournament</li></ul> |
-| F07-S08 | <ul><li>Collaboration with Purdue Space Day</li></ul> |
-| F08-S09 | <ul><li>Collaboration with 4H</li></ul> |
+| F04-S05 | Separation from PSEF<br>Formation of FRC 1646<br>First Boilermaker Regional  |
+| F05-S06 | Formation of FRC 1747<br>Planning for Vex Tournament |
+| F06-S07 | Vex Tournament |
+| F07-S08 | Collaboration with Purdue Space Day |
+| F08-S09 | Collaboration with 4H |
 | F09-S10 | ? |
 | F10-S11 | ? |
 | F11-S12 | ? |
