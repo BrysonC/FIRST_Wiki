@@ -9,11 +9,11 @@ After the new students forged a partnership with Steve Florence, a local high sc
 
 | Year | Significant Events |
 |---|---|
-| F99-S00 | <ul><li>Creation as PSEF activity</li><li>Formation of FRC 461</li></ul> |
+| F99-S00 | Creation as PSEF activity<br>Formation of FRC 461 |
 | F00-S01 |  |
-| F01-S02 | <ul><li>Start of ME297 Class (Julia Badger)</li></ul> |
+| F01-S02 | Start of ME297 Class (Julia Badger) |
 | F02-S03 | <ul><li>First PFP FLL Tournament</li><li>Obtained Provost support ($25k/yr match, Patrick Wasonga)</li><li>Separate FRC & FLL Director position</li></ul> |
-| F03-S04 | <ul><li>Planning for FRC regional</li></ul> |
+| F03-S04 | Planning for FRC regional |
 | F04-S05 | <ul><li>Separation from PSEF</li><li>Formation of FRC 1646</li><li>First Boilermaker Regional</li></ul>  |
 | F05-S06 | <ul><li>Formation of FRC 1747</li><li>Planning for Vex Tournament</li></ul> |
 | F06-S07 | <ul><li>Vex Tournament</li></ul> |
@@ -23,14 +23,14 @@ After the new students forged a partnership with Steve Florence, a local high sc
 | F10-S11 | ? |
 | F11-S12 | ? |
 | F12-S13 | ? |
-| F13-S14 | <ul><li>Last Boilermaker Regional (Indiana transitions to District)</li></ul> |
+| F13-S14 | Last Boilermaker Regional (Indiana transitions to District) |
 | F14-S15 | ? |
 | F15-S16 | ? |
-| F16-S17 | <ul><li>First Boiler Bot Battle</li></ul> |
+| F16-S17 | First Boiler Bot Battle |
 | F17-S18 | ? |
 | F18-S19 | ? |
-| F19-S20 | <ul><li>COVID-19 Pandemic</li></ul> |
+| F19-S20 | COVID-19 Pandemic |
 | F20-S21 | ? |
 | F21-S22 | ? |
-| F22-S23 | <ul><li>End of ME297 Class</li></ul> |
+| F22-S23 | End of ME297 Class |
 | F23-S24 | ? |
