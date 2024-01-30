@@ -1,4 +1,4 @@
-Information on this page is transposed from an [old PFP website](https://engineering.purdue.edu/PUFIRST/ProgramHistory.htm) and supplimented by an oral retelling by Dr.Chu.
+Information on this page is transposed from an [old PFP website](https://engineering.purdue.edu/PUFIRST/ProgramHistory.htm) and supplimented by an oral retelling by Dr.Chiu.
 
 ### Founding
 Several administrators in the College of Engineering took interest in the FIRST program and devised an effort to explore the program. In the spring of 1999 Associate Dean Warren Stevenson along with faculty and graduate students, visited the FIRST National Championship event at the Walt Disney Epcot Center in Orlando Florida. In the fall of that year, PSEF (Purdue Student Engineering Foundation) was approached to add a FIRST team to their extensive list of outreach activities. This effort was spearheaded by Shanna Snap, alum of FRC46 and freshman at the time.
