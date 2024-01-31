@@ -11,6 +11,8 @@ Purdue FIRST Programs (PFP) is a Purdue student organization supporting the FIRS
 
 **Meetings:** 6-7pm in PHYS 338 *[(spring 2024)](2024spring.md)*
 
+**Office:** DUDL 2472
+
 **Annual Public Events**
 - [Boiler Bot Battle ("B3")](B3.md)
 - [Purdue FIRST Fourms](fourms.md)
