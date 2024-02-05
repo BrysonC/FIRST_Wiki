@@ -1,8 +1,10 @@
 ## Meeting Structure
-  - 6:00 - 6:30 | Officer-Only Meeting
-  - 6:30 - 7:00 | Team work time
-  - 7:00 - 7:30 | Org Activity
-  - 7:30 - 8:00 | Exec Meeting
+  | | |
+  | :--: | :-- |
+  | 6:00 - 6:30 | Officer-Only Meeting |
+  | 6:30 - 7:00 | Team work time |
+  | 7:00 - 7:30 | Org Activity |
+  | 7:30 - 8:00 | Exec Meeting |
 
 ## Spring 2024 Schedule
 ❌ = Canceled, ✅ = Required
@@ -21,6 +23,7 @@
   - Youth Protection Training
 
 ### Wk04 - Jan 30
+  - FIRST Jeopardy
 
 ### Wk05 - Feb 06 ✅
 
