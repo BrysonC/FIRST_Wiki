@@ -5,7 +5,7 @@ Purdue FIRST Programs (PFP) is a Purdue student organization supporting the FIRS
 
 **Mission Statement:** We believe that youth STEM programs help build a better future and inspiring others doesn’t stop at college. Our Goal is to be involved in the FIRST community and leave it better than we found it.
 
-**Purpose:** ~~CHALLENGE~~ INSPIRE future leaders, MENTOR current students, ENGAGE the local community
+**Purpose:** CHALLENGE future leaders, MENTOR current students, ENGAGE the local community
 
 **Branches:** [Exec Board](exec.md), [Events](events.md), [Media](media.md), [FRC Mentoring](mentor_frc.md), [Jr Mentoring](mentor_jr.md)
 
@@ -23,6 +23,7 @@ Purdue FIRST Programs (PFP) is a Purdue student organization supporting the FIRS
 - [FIRST Event Volunteering](volunteering.md)
 
 **Commonly Accessed Resources**
+- [🤝 volunteering](volunteering.md)
 - [🚸 Youth Protection Training](https://www.purdue.edu/ethics/youth_protection/Staff/Training.php)
 - [🔗 Boilerlink Page](https://boilerlink.purdue.edu/organization/purduefirstprograms/)
 - [📖 PFP acronyms + dictionary](dictionary.md)
