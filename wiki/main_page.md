@@ -20,10 +20,10 @@ Purdue FIRST Programs (PFP) is a Purdue student organization supporting the FIRS
 - [FRC Kickoff](kickoff_FRC.md)
 - [FRC Design Review](design_review.md)
 - [FRC Open House](open_house.md)
-- [FIRST Event Volunteering](volunteering.md)
+- [FIRST Event Volunteering](/volunteering/main.md)
 
 **Commonly Accessed Resources**
-- [🤝 volunteering](volunteering.md)
+- [🤝 Volunteering](/volunteering/main.md)
 - [🚸 Youth Protection Training](https://www.purdue.edu/ethics/youth_protection/Staff/Training.php)
 - [🔗 Boilerlink Page](https://boilerlink.purdue.edu/organization/purduefirstprograms/)
 - [📖 PFP acronyms + dictionary](dictionary.md)
