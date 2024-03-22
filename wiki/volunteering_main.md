@@ -18,6 +18,6 @@ DONTs:
 * Be negative to others.
 
 ### Program Specifics (links)
-[![FIRST Robotics Competition Logo](../../assets/FIRST_logos/logo_FRC.svg)](volunteering_frc.md) <br>
-[![FIRST Robotics Tech Challenge](../../assets/FIRST_logos/logo_FTC.svg)](volunteering_ftc.md) <br>
-[![FIRST Lego League](../../assets/FIRST_logos/logo_FLL.svg)](volunteering_fll.md)
+[![FIRST Robotics Competition Logo](./assets/FIRST_logos/logo_FRC.svg)](volunteering_frc.md) <br>
+[![FIRST Robotics Tech Challenge](./assets/FIRST_logos/logo_FTC.svg)](volunteering_ftc.md) <br>
+[![FIRST Lego League](./assets/FIRST_logos/logo_FLL.svg)](volunteering_fll.md)
