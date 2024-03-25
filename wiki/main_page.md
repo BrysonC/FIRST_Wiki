@@ -7,7 +7,7 @@ Purdue FIRST Programs (PFP) is a Purdue student organization supporting the FIRS
 
 **Purpose:** CHALLENGE future leaders, MENTOR current students, ENGAGE the local community
 
-**Branches:** [Exec Board](exec.md), [Events](events.md), [Media](media.md), [FRC Mentoring](mentor_frc.md), [Jr Mentoring](mentor_jr.md)
+**Branches:** [Exec Board](exec.md), [Events](events.md), [Media](media.md), [FRC Mentoring](mentor_frc.md), [Jr Mentoring (FLL+FTC)](mentor_jr.md), [Current Committees](committees.md)
 
 **Meetings:** 6-7pm in PHYS 338 *[(spring 2024)](2024spring.md)*
 
