@@ -1,4 +1,5 @@
 ## Meeting Structure?
+
   | Time | Activity |
   |------|------|
   | 6:00 - 6:30 | Officer-Only Meeting |
