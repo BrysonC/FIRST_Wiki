@@ -1,6 +1,6 @@
-## Meeting Structure
-  |  |  |
-  |----|----|
+## Meeting Structure?
+  | Time | Activity |
+  |------|------|
   | 6:00 - 6:30 | Officer-Only Meeting |
   | 6:30 - 7:00 | Team work time |
   | 7:00 - 7:30 | Org Activity |
@@ -29,12 +29,13 @@
   - Exec Roles 
 
 ### Wk06 - Feb 13
-  - Speaker: Andy Baker
+  - Andy Baker (FIRST Culture & Innovation)
 
 ### Wk07 - Feb 20
-  - Speaker: Brad Thompson
+  - Brad Thompson (Artisanal Leadership)
 
 ### Wk08 - Feb 27 🤖
+  - Safety Glasses Decorating
 
 ### Wk09 - Mar 05 ✅🗳️🤖
   - Elections
@@ -43,10 +44,13 @@
   - Spring Break
 
 ### Wk11 - Mar 19 🤖
+  - Chris Osborne + Ashley Robbins (FIN + PFP)
 
 ### Wk12 - Mar 26 🤖
+  - Desmine Robinson (Self Leadership)
 
 ### Wk13 - Apr 02 ✅🤖
+  - PFP Alumni Pannel
 
 ### Wk14 - Apr 09
 ### Wk15 - Apr 16
