@@ -10,3 +10,7 @@ Committees are focused groups looking to create change in the org.
 
 ### BESSE (Boilermaker Extra Special Small Edition) [??]
 Design a robot to drive around campus and at football games to drive Purdue community engagement
+
+
+### Financial Committee [Avi Franco]
+Work with the treasurer on fundraising and different ways of earning money for PFP! 
